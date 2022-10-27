@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+/* ---------------navbar--------------- */
+.navbar{
+   width:100% ;
+   display: flex;
+   justify-content: center;
+   box-shadow:  1px 2px 6px rgb(136, 147, 158);
+   position: fixed;
+   background-color: white;
+   
+}
+.mini_navbar{
+    width:80%;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    width: 65%;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.menu ul{
+    width: 65%;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+.menu ul a{
+    color: black;
+   text-decoration: none;
+}
+.icon ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    align-items: center;
+    width: 13%;
+}
+.menu ul a:hover{
+    color: #EE4248(255, 14, 14);
+    border: 4px solid #EE4248;
+    border-radius: 8px;
+}
+.icon{
+    display: flex;
+    align-items: center;
+    width: 13%;
+}
+
+/* -------------------Making the most------------- */
+.contener_Making_the_most{
+    display: flex;
+    justify-content: center;
+}
+ .main_Making_the_most{
+    width: 80%;
+    display: flex;
+    padding-top:100px ;
+ }
+ .Making_h1{
+    font-size: 42px;
+ }
+ .Information_h1{
+    font-size: 42px;
+    color: #EE4248;
+ }
+ .Managed_p{
+    font-size: 20px;
+    line-height: 29px;
+    padding-bottom: 36px;
+    padding-top:24px ;
+ }
+ .button_Read{
+    padding: 12px 32px;
+    font-size: 20px;
+    line-height: 29px;
+    background-color: #EE4248;
+    border: none;
+    border-radius: 4px;
+    color: white;
+ }
+ /* -------Welcome to Dwidasa Samsara Indonesia (DSI)-------- */
+.conrtener_Welcome_to_DSI{
+    margin-top: 175px;
+    display: flex;
+    justify-content: center;
+    background-color: #F7F7F7;
+    padding-bottom: 70px;
+}
+.main_Welcome_to_DSI{
+    width: 80%;
+    display: flex;
+}
+.img_left{
+    padding-right: 82px;
+}
+.h1_Welcome{
+    padding-top: 57px;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 42.78px;
+}
+.p_Dwidasa{
+    padding-top: 24px;
+    font-size: 18px;
+    color: #30444E;
+}
+.spn_color{
+    color:#EE4248;
+    font-weight: 600;
+}
+/* ----------Product and Service----------- */
+.contener_Product_and_Service{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.main_Product_and_Service{
+    width: 80%;
+}
+.p_Product{
+    font-size: 32px;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 116px;
+}
+.Our_Product_Our_Service_Our_Technology{
+    width: 30%;
+}
+.main_Our_Product{
+    display: flex;
+    justify-content: space-between;
+}
+.h3_Our{
+    font-size: 28px;
+    font-weight: 500;
+    color: #EE4248;
+    padding: 16px 0px 15px 0px ;
+}
+.p_made{
+    font-size: 18px;
+    font-weight: 27px;
+    padding-bottom: 15px;
+}
+.button_Read2{
+    padding: 8px 16px;
+    background-color: #EE4248;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 18px;
+}
+
+
+.logo_contkt{
+    padding-top: 110px;
+    display: flex;
+}
+.Contact{
+    margin-left: 47px;
+
+}
+.h5_Contact{
+    font-size: 24px;
+}
+.p_obshi{
+    font-size: 18px;
+    line-height: 27px;
+}
+
+
+
+
+
+.conets{
+    background-color: #EE4248;
+    padding: 16px 32px;
+    text-align: center;
+}
+
+.Read_hover:hover{
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
